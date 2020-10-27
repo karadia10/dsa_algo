@@ -18,11 +18,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f500dc27-fa97-4c8d-a6d7-10e104f96e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/karadia/reversearray/ReverseArrayXOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/karadia/reversearray/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/karadia/reversearray/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/karadia/reversearray/ReverseArrayRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/karadia/reversearray/ReverseArrayRecursion.java" afterDir="false" />
-    </list>
+    <list default="true" id="f500dc27-fa97-4c8d-a6d7-10e104f96e7f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603823142637</updated>
-      <workItem from="1603823145637" duration="1742000" />
+      <workItem from="1603823145637" duration="1897000" />
     </task>
     <servers />
   </component>
